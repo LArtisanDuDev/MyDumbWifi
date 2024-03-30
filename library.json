@@ -1,0 +1,24 @@
+{
+  "name": "MyDumbWifi",
+  "version": "0.0.1",
+  "keywords": "wifi,wi-fi,esp,esp8266,esp32,espressif8266,espressif32,arduino",
+  "description": "Wifi library to deal with my dumb wifi mesh system",
+  "authors":
+  [
+    {
+        "name": "LArtisanDuDev",
+        "url": "https://github.com/LArtisanDuDev"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/LArtisanDuDev/MyDumbWifi.git"
+  },
+  "frameworks": "arduino",
+  "platforms": 
+  [
+    "espressif8266",
+    "espressif32"
+  ]
+}
